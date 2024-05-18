@@ -56,4 +56,6 @@ mh-x
 
 -@media(max-width: 768px) {} - as long as its under 768px then this rule should be in effect
 
+-the box sizing properties in css controls how the total width and height of an element is calcualted. Default is content-box where the size is calculated based only on the content of the element, excluding paddings and borders. border-box includes padding and borders in this calculation
+
 
